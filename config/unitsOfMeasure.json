@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Hour(s)",
+    "DurationInHours": 1.00
+  },
+  {
+    "Name": "Day(s)",
+    "DurationInHours": 8.00
+  },
+  {
+    "Name": "Week(s)",
+    "DurationInHours": 40.00
+  },
+  {
+    "Name": "Month(s)",
+    "DurationInHours": 160.00
+  }
+]

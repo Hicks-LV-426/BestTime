@@ -1,0 +1,64 @@
+[
+  {
+    "Id": "2a3ae593-ab9a-4cb2-9b33-247e2c292bc2",
+    "Name": "Work",
+    "Description": "",
+    "Activities": [
+      {
+        "Id": "90346def-5b83-4293-9625-c2cc208c8b2f",
+        "Name": "Meetings",
+        "Description": "",
+        "Activities": []
+      },
+      {
+        "Id": "b6f6796f-9385-4305-86c7-cddbb14cc924",
+        "Name": "Emails & Planning",
+        "Description": "",
+        "Activities": []
+      },
+      {
+        "Id": "ceb589df-9a34-4f36-af67-1412d787cbdb",
+        "Name": "Creator time",
+        "Description": "This is the time for activities that require concentration and are best performed when not disturbed",
+        "Activities": []
+      },
+      {
+        "Id": "adbedcb4-4191-4d1e-a00f-019e41045958",
+        "Name": "Learning & Reading",
+        "Description": "",
+        "Activities": []
+      }
+    ]
+  },
+  {
+    "Id": "a400646c-415d-4014-9afb-c95ce888dbc2",
+    "Name": "Personal",
+    "Description": "",
+    "Activities": [
+      {
+        "Id": "816a28c6-20aa-439a-911c-381113e4664f",
+        "Name": "Workout",
+        "Description": "",
+        "Activities": []
+      },
+      {
+        "Id": "4b0b7fce-07f4-41c1-a00f-600647079d36",
+        "Name": "Reading",
+        "Description": "",
+        "Activities": []
+      },
+      {
+        "Id": "e51a43cb-277e-4351-a9ec-a9b7b9970c4b",
+        "Name": "Shopping",
+        "Description": "",
+        "Activities": []
+      },
+      {
+        "Id": "bfdd2e06-8aa7-464d-8ab1-b2e6b59b74ea",
+        "Name": "Entertainment",
+        "Description": "",
+        "Activities": []
+      }
+    ]
+  }
+]
