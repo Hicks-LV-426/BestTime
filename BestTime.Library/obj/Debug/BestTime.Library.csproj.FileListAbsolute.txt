@@ -1,7 +1,0 @@
-C:\Store\Projects\BestTime\BestTime.Library\bin\Debug\BestTime.Library.dll
-C:\Store\Projects\BestTime\BestTime.Library\bin\Debug\BestTime.Library.pdb
-C:\Store\Projects\BestTime\BestTime.Library\bin\Debug\Newtonsoft.Json.dll
-C:\Store\Projects\BestTime\BestTime.Library\bin\Debug\Newtonsoft.Json.xml
-C:\Store\Projects\BestTime\BestTime.Library\obj\Debug\BestTime.Library.dll
-C:\Store\Projects\BestTime\BestTime.Library\obj\Debug\BestTime.Library.pdb
-C:\Store\Projects\BestTime\BestTime.Library\obj\Debug\BestTime.Library.csprojResolveAssemblyReference.cache
