@@ -7,5 +7,6 @@
         public string Content { get; set; }
         public Estimate Estimate { get; set; }
         public Priority Priority { get; set; }
+        public int Deadline { get; set; }
     }
 }
